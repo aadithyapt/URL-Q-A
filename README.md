@@ -1,4 +1,4 @@
-<h1>🔍 Adaptive Question Answering from Web Content</h1>
+<h1>🔍 Adaptive Question Answering from Web Content (URL-Q-A)</h1>
 
 <p>This project is a web-based application designed to streamline the process of retrieving precise answers from multiple web sources. Leveraging the power of Large Language Models (LLMs) and LangChain, the tool enables users to input multiple URLs and ask natural language questions. The system responds with accurate, summarized answers along with source context, significantly reducing the need for manual searching and reading.</p>
 
